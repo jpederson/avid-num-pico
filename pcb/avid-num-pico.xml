@@ -1,0 +1,1150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\James\keyboards\keyboard-designs\avid-num-pico\pcb\avid-num-pico.kicad_sch</source>
+    <date>6/6/2023 12:32:54 AM</date>
+    <tool>Eeschema 7.0.2</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>avid-num-pico.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="D1">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdfhttps://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdf</datasheet>
+      <fields>
+        <field name="LCSC Part #">C64898</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC Part #" value="C64898"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a4174715-b135-4e01-9bb6-86ee7cab775d</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdfhttps://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdf</datasheet>
+      <fields>
+        <field name="LCSC Part #">C64898</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC Part #" value="C64898"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2d7ae2c5-6103-4006-9b23-ccfcf43ec7d4</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdfhttps://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdf</datasheet>
+      <fields>
+        <field name="LCSC Part #">C64898</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC Part #" value="C64898"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>11392699-7d84-45ea-a415-0e2d0753cd44</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdfhttps://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdf</datasheet>
+      <fields>
+        <field name="LCSC Part #">C64898</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC Part #" value="C64898"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>42106429-8b7e-489d-823d-3d3c26a2e542</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdfhttps://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdf</datasheet>
+      <fields>
+        <field name="LCSC Part #">C64898</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC Part #" value="C64898"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>416e8b41-427b-4a0f-9fb8-cfa8a9fd7bcd</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdfhttps://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdf</datasheet>
+      <fields>
+        <field name="LCSC Part #">C64898</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC Part #" value="C64898"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f0cbd3b-fe1b-4034-bc31-101f89a46088</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdfhttps://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdf</datasheet>
+      <fields>
+        <field name="LCSC Part #">C64898</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC Part #" value="C64898"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>20dc3748-e6ad-4e82-9cf0-ed78b7294d25</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdfhttps://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdf</datasheet>
+      <fields>
+        <field name="LCSC Part #">C64898</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC Part #" value="C64898"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ef055c4a-8009-4196-aeea-b9718404179d</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdfhttps://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdf</datasheet>
+      <fields>
+        <field name="LCSC Part #">C64898</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC Part #" value="C64898"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aa9dd4fc-1022-4553-8c39-cf542127bbc6</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdfhttps://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdf</datasheet>
+      <fields>
+        <field name="LCSC Part #">C64898</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC Part #" value="C64898"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>adee4fe4-401e-4350-ae78-ca9a80a5829c</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdfhttps://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdf</datasheet>
+      <fields>
+        <field name="LCSC Part #">C64898</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC Part #" value="C64898"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>82917222-64fd-47a3-9a80-3a00ba21bba4</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdfhttps://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdf</datasheet>
+      <fields>
+        <field name="LCSC Part #">C64898</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC Part #" value="C64898"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b37ac353-f377-4d9c-a538-493afbd3f2f0</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdfhttps://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdf</datasheet>
+      <fields>
+        <field name="LCSC Part #">C64898</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC Part #" value="C64898"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>efa09fb3-9e63-4759-b186-bb5038950628</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdfhttps://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdf</datasheet>
+      <fields>
+        <field name="LCSC Part #">C64898</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC Part #" value="C64898"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1cbc774e-b1ce-4f8f-b2fb-61595416f924</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdfhttps://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdf</datasheet>
+      <fields>
+        <field name="LCSC Part #">C64898</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC Part #" value="C64898"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c52e8de6-5107-4c0b-9902-1fbd0ff1f7e5</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdfhttps://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdf</datasheet>
+      <fields>
+        <field name="LCSC Part #">C64898</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC Part #" value="C64898"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a1784fb3-92b7-42ec-939f-cd9bb5d33f4a</tstamps>
+    </comp>
+    <comp ref="D17">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdfhttps://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdf</datasheet>
+      <fields>
+        <field name="LCSC Part #">C64898</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC Part #" value="C64898"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7a61a1d1-88ce-4163-8b89-03d8fbc37fa6</tstamps>
+    </comp>
+    <comp ref="D18">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdfhttps://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdf</datasheet>
+      <fields>
+        <field name="LCSC Part #">C64898</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC Part #" value="C64898"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>393ebced-c8ee-4f6f-ad7f-d9ac95cca994</tstamps>
+    </comp>
+    <comp ref="D19">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdfhttps://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdf</datasheet>
+      <fields>
+        <field name="LCSC Part #">C64898</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC Part #" value="C64898"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a6e2d093-a0fa-4787-a8e5-18e7d7753b9d</tstamps>
+    </comp>
+    <comp ref="D20">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdfhttps://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdf</datasheet>
+      <fields>
+        <field name="LCSC Part #">C64898</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC Part #" value="C64898"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0eb4402a-4edc-4f46-87fc-f73d9931672b</tstamps>
+    </comp>
+    <comp ref="D21">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdfhttps://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdf</datasheet>
+      <fields>
+        <field name="LCSC Part #">C64898</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC Part #" value="C64898"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4adfd53a-188f-4963-b425-b68a9052ff9d</tstamps>
+    </comp>
+    <comp ref="D22">
+      <value>D_Small</value>
+      <footprint>Diode_SMD:D_SOD-123F</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdfhttps://datasheet.lcsc.com/lcsc/1809301215_MDD-Microdiode-Electronics--SM4007PL_C64898.pdf</datasheet>
+      <fields>
+        <field name="LCSC Part #">C64898</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
+      <property name="Sim.Device" value="D"/>
+      <property name="Sim.Pins" value="1=K 2=A"/>
+      <property name="LCSC Part #" value="C64898"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Diode, small symbol"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bb1b6ee1-f610-4cbe-bb2d-3800fa30553b</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.7mm_M2.5</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f5181455-9f5d-4058-9fb3-9b1d8979e5f3</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.7mm_M2.5</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0ed7b60c-9a7d-41a1-814d-cf70c605b554</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.7mm_M2.5</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7ba5118a-8b88-4708-b42a-e1b63762cbb7</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_2.7mm_M2.5</footprint>
+      <libsource lib="Mechanical" part="MountingHole" description="Mounting Hole without connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole without connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bd229860-4523-4b74-b116-3f37c6be8eb1</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>21-40</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x20_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x20_Socket" description="Generic connector, single row, 01x20, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x20, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c6b90e4c-1244-469f-b053-0cca2da04989</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>1-20</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x20_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x20_Socket" description="Generic connector, single row, 01x20, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x20, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>55a87ada-ac8d-4a6e-883f-b218b0f269eb</tstamps>
+    </comp>
+    <comp ref="MX1">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3d2c1cf3-e31a-460d-b49a-c7f0e4a6da7f</tstamps>
+    </comp>
+    <comp ref="MX2">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6846a1b0-0953-4fa9-b4d3-460cbd69f2ed</tstamps>
+    </comp>
+    <comp ref="MX3">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>914e6e58-f004-4562-af5e-d19764dbbbcf</tstamps>
+    </comp>
+    <comp ref="MX4">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d3207c8f-ca5e-4b38-bbd9-7653405cb660</tstamps>
+    </comp>
+    <comp ref="MX5">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7cae847a-b072-43a9-81c0-5206a8faf034</tstamps>
+    </comp>
+    <comp ref="MX6">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e4e9e6c7-30c1-4c6a-9f15-16af9a8cd3bb</tstamps>
+    </comp>
+    <comp ref="MX7">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b8e1c6e3-f566-49c2-902f-dd6df7865a55</tstamps>
+    </comp>
+    <comp ref="MX8">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3b6b9672-8a07-4ce8-a6a7-3749f47ca99d</tstamps>
+    </comp>
+    <comp ref="MX9">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>82c6649c-3f04-4173-b0fe-c5786757b47a</tstamps>
+    </comp>
+    <comp ref="MX10">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>891a19ad-aea4-4b9e-8611-f949871c34da</tstamps>
+    </comp>
+    <comp ref="MX11">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f9fabca7-45c7-4727-beda-6fb70f37a28a</tstamps>
+    </comp>
+    <comp ref="MX12">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4719c1c7-e532-48f0-ac82-a1549a4452a9</tstamps>
+    </comp>
+    <comp ref="MX13">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a250c06c-ecfc-4022-ac77-58f7951e47da</tstamps>
+    </comp>
+    <comp ref="MX14">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6bcbb03f-c2bd-4514-a49d-7f979eb87ca5</tstamps>
+    </comp>
+    <comp ref="MX15">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>32d8841a-b96c-472f-8abd-eb6b7778881c</tstamps>
+    </comp>
+    <comp ref="MX16">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c3200ec6-b7ac-4cb2-b5d2-cfff7e1778aa</tstamps>
+    </comp>
+    <comp ref="MX17">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>47ed2fcc-1934-4e05-9f31-0d3091eb2f2d</tstamps>
+    </comp>
+    <comp ref="MX18">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d100bb60-df66-42b6-b1f1-0f1782265a51</tstamps>
+    </comp>
+    <comp ref="MX19">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e860dcc0-59b9-43bf-879c-8b96d6d476bc</tstamps>
+    </comp>
+    <comp ref="MX20">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>33014565-edd6-446b-809f-2a536f0e1e24</tstamps>
+    </comp>
+    <comp ref="MX21">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>16e1a363-b24c-473f-bcaa-06820e38a1b5</tstamps>
+    </comp>
+    <comp ref="MX22">
+      <value>MX_SW_solder</value>
+      <footprint>marbastlib-mx:SW_MX_1u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_SW_solder" description="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, normally open, two pins, 45° tilted"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ca839d30-02f0-4249-be3e-ab5e4d98b6d4</tstamps>
+    </comp>
+    <comp ref="S1">
+      <value>MX_stab</value>
+      <footprint>marbastlib-mx:STAB_MX_2u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_stab" description="Cherry MX-style stabilizer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Cherry MX-style stabilizer"/>
+      <property name="ki_keywords" value="cherry mx stabilizer stab"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>aff484cb-82e0-4d58-9c02-f00b4d5c0ac4</tstamps>
+    </comp>
+    <comp ref="S2">
+      <value>MX_stab</value>
+      <footprint>marbastlib-mx:STAB_MX_2u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_stab" description="Cherry MX-style stabilizer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Cherry MX-style stabilizer"/>
+      <property name="ki_keywords" value="cherry mx stabilizer stab"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cf874922-5b72-45f0-a0a2-9fdf94d6539c</tstamps>
+    </comp>
+    <comp ref="S3">
+      <value>MX_stab</value>
+      <footprint>marbastlib-mx:STAB_MX_2u</footprint>
+      <libsource lib="marbastlib-mx" part="MX_stab" description="Cherry MX-style stabilizer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="avid-num-pico.kicad_sch"/>
+      <property name="ki_description" value="Cherry MX-style stabilizer"/>
+      <property name="ki_keywords" value="cherry mx stabilizer stab"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ebe48365-7789-4daa-99f7-19076f360ffd</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x20_Socket">
+      <description>Generic connector, single row, 01x20, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x20_Socket</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+        <pin num="15" name="Pin_15" type="passive"/>
+        <pin num="16" name="Pin_16" type="passive"/>
+        <pin num="17" name="Pin_17" type="passive"/>
+        <pin num="18" name="Pin_18" type="passive"/>
+        <pin num="19" name="Pin_19" type="passive"/>
+        <pin num="20" name="Pin_20" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Small">
+      <description>Diode, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Small</field>
+        <field name="Datasheet">~</field>
+        <field name="Sim.Device">D</field>
+        <field name="Sim.Pins">1=K 2=A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole">
+      <description>Mounting Hole without connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole</field>
+        <field name="Datasheet">~</field>
+      </fields>
+    </libpart>
+    <libpart lib="marbastlib-mx" part="MX_SW_solder">
+      <description>Push button switch, normally open, two pins, 45° tilted</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">MX</field>
+        <field name="Value">MX_SW_solder</field>
+        <field name="Footprint">PCM_marbastlib-mx:SW_MX_1u</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="marbastlib-mx" part="MX_stab">
+      <description>Cherry MX-style stabilizer</description>
+      <fields>
+        <field name="Reference">S</field>
+        <field name="Value">MX_stab</field>
+        <field name="Footprint">PCM_marbastlib-mx:STAB_MX_P_6.25u</field>
+      </fields>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="marbastlib-mx">
+      <uri>Z:/keyboards/kicad-libraries/marbastlib/symbols/marbastlib-mx.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="3V3">
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive+no_connect"/>
+    </net>
+    <net code="2" name="3V3_EN">
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive+no_connect"/>
+    </net>
+    <net code="3" name="COL1">
+      <node ref="J1" pin="14" pinfunction="Pin_14" pintype="passive"/>
+      <node ref="MX1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="MX11" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="MX15" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="MX20" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="MX6" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="4" name="COL2">
+      <node ref="J1" pin="12" pinfunction="Pin_12" pintype="passive"/>
+      <node ref="MX12" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="MX16" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="MX2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="MX21" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="MX7" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="5" name="COL3">
+      <node ref="J2" pin="15" pinfunction="Pin_15" pintype="passive"/>
+      <node ref="MX13" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="MX17" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="MX3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="MX8" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="6" name="COL4">
+      <node ref="J2" pin="17" pinfunction="Pin_17" pintype="passive"/>
+      <node ref="MX14" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="MX18" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="MX22" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="MX4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="MX9" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="7" name="COL5">
+      <node ref="J2" pin="19" pinfunction="Pin_19" pintype="passive"/>
+      <node ref="MX10" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="MX19" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="MX5" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="8" name="GND">
+      <node ref="J1" pin="13" pinfunction="Pin_13" pintype="passive"/>
+      <node ref="J1" pin="18" pinfunction="Pin_18" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J1" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="J2" pin="13" pinfunction="Pin_13" pintype="passive"/>
+      <node ref="J2" pin="18" pinfunction="Pin_18" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J2" pin="8" pinfunction="Pin_8" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(D1-A)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="10" name="Net-(D2-A)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="11" name="Net-(D3-A)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="12" name="Net-(D4-A)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX4" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="13" name="Net-(D5-A)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX5" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="14" name="Net-(D6-A)">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX6" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="15" name="Net-(D7-A)">
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX7" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="16" name="Net-(D8-A)">
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX8" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="17" name="Net-(D9-A)">
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX9" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="18" name="Net-(D10-A)">
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX10" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="19" name="Net-(D11-A)">
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX11" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="20" name="Net-(D12-A)">
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX12" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="21" name="Net-(D13-A)">
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX13" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="22" name="Net-(D14-A)">
+      <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX14" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="23" name="Net-(D15-A)">
+      <node ref="D15" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX15" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(D16-A)">
+      <node ref="D16" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX16" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(D17-A)">
+      <node ref="D17" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX17" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(D18-A)">
+      <node ref="D18" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX18" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(D19-A)">
+      <node ref="D19" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX19" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(D20-A)">
+      <node ref="D20" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX20" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(D21-A)">
+      <node ref="D21" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX21" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(D22-A)">
+      <node ref="D22" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="MX22" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="31" name="ROW1">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J2" pin="20" pinfunction="Pin_20" pintype="passive"/>
+    </net>
+    <net code="32" name="ROW2">
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="J2" pin="14" pinfunction="Pin_14" pintype="passive"/>
+    </net>
+    <net code="33" name="ROW3">
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="15" pinfunction="Pin_15" pintype="passive"/>
+      <node ref="J2" pin="6" pinfunction="Pin_6" pintype="passive"/>
+    </net>
+    <net code="34" name="ROW4">
+      <node ref="D15" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D16" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D17" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D18" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D19" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="20" pinfunction="Pin_20" pintype="passive"/>
+    </net>
+    <net code="35" name="ROW5">
+      <node ref="D20" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D21" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D22" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="36" name="RUN">
+      <node ref="J1" pin="11" pinfunction="Pin_11" pintype="passive"/>
+    </net>
+    <net code="37" name="VBUS">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive+no_connect"/>
+    </net>
+    <net code="38" name="VSYS">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive+no_connect"/>
+    </net>
+    <net code="39" name="unconnected-(J1-Pin_6-Pad6)">
+      <node ref="J1" pin="6" pinfunction="Pin_6" pintype="passive+no_connect"/>
+    </net>
+    <net code="40" name="unconnected-(J1-Pin_9-Pad9)">
+      <node ref="J1" pin="9" pinfunction="Pin_9" pintype="passive+no_connect"/>
+    </net>
+    <net code="41" name="unconnected-(J1-Pin_10-Pad10)">
+      <node ref="J1" pin="10" pinfunction="Pin_10" pintype="passive+no_connect"/>
+    </net>
+    <net code="42" name="unconnected-(J1-Pin_16-Pad16)">
+      <node ref="J1" pin="16" pinfunction="Pin_16" pintype="passive+no_connect"/>
+    </net>
+    <net code="43" name="unconnected-(J1-Pin_17-Pad17)">
+      <node ref="J1" pin="17" pinfunction="Pin_17" pintype="passive+no_connect"/>
+    </net>
+    <net code="44" name="unconnected-(J1-Pin_19-Pad19)">
+      <node ref="J1" pin="19" pinfunction="Pin_19" pintype="passive+no_connect"/>
+    </net>
+    <net code="45" name="unconnected-(J2-Pin_2-Pad2)">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive+no_connect"/>
+    </net>
+    <net code="46" name="unconnected-(J2-Pin_4-Pad4)">
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive+no_connect"/>
+    </net>
+    <net code="47" name="unconnected-(J2-Pin_5-Pad5)">
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive+no_connect"/>
+    </net>
+    <net code="48" name="unconnected-(J2-Pin_7-Pad7)">
+      <node ref="J2" pin="7" pinfunction="Pin_7" pintype="passive+no_connect"/>
+    </net>
+    <net code="49" name="unconnected-(J2-Pin_9-Pad9)">
+      <node ref="J2" pin="9" pinfunction="Pin_9" pintype="passive+no_connect"/>
+    </net>
+    <net code="50" name="unconnected-(J2-Pin_10-Pad10)">
+      <node ref="J2" pin="10" pinfunction="Pin_10" pintype="passive+no_connect"/>
+    </net>
+    <net code="51" name="unconnected-(J2-Pin_11-Pad11)">
+      <node ref="J2" pin="11" pinfunction="Pin_11" pintype="passive+no_connect"/>
+    </net>
+    <net code="52" name="unconnected-(J2-Pin_12-Pad12)">
+      <node ref="J2" pin="12" pinfunction="Pin_12" pintype="passive+no_connect"/>
+    </net>
+    <net code="53" name="unconnected-(J2-Pin_16-Pad16)">
+      <node ref="J2" pin="16" pinfunction="Pin_16" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>

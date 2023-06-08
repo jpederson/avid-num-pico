@@ -1,0 +1,7 @@
+"#","Reference","Qty","Value","Footprint","DNP"
+"1","D1, D2, D3, D4, D5, D6, D7, D8, D9, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D20, D21, D22","22","D_Small","Diode_SMD:D_SOD-123F",""
+"2","H1, H2, H3, H4","4","MountingHole","MountingHole:MountingHole_2.7mm_M2.5",""
+"3","J1","1","21-40","Connector_PinSocket_2.54mm:PinSocket_1x20_P2.54mm_Vertical",""
+"4","J2","1","1-20","Connector_PinSocket_2.54mm:PinSocket_1x20_P2.54mm_Vertical",""
+"5","MX1, MX2, MX3, MX4, MX5, MX6, MX7, MX8, MX9, MX10, MX11, MX12, MX13, MX14, MX15, MX16, MX17, MX18, MX19, MX20, MX21, MX22","22","MX_SW_solder","marbastlib-mx:SW_MX_1u",""
+"6","S1, S2, S3","3","MX_stab","marbastlib-mx:STAB_MX_2u",""
